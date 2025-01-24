@@ -1,0 +1,193 @@
+.login-body {
+    background-color:whitesmoke;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  .login-card {
+    max-width: 400px;
+    width: 100%;
+    padding: 20px;
+    border: none;
+    border-radius: 8px;
+    background-color:white;
+  }
+  .login-card button:hover{
+        background-color: blueviolet;
+      }
+
+     
+      .signup-body {
+        background-color:whitesmoke;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+    }
+    .signup-card {
+          max-width: 500px;
+          width: 100%;
+          padding: 25px;
+          border: none;
+          border-radius: 8px;
+          background-color:white;
+        }
+        .signup-card button:hover{
+          background-color: blueviolet;
+        }
+    .signup-card h3 {
+          text-align: center;
+          margin-bottom: 20px;
+        }
+
+       
+        .index-body {
+            background-color:black;
+            
+          }
+          .fomt{
+            font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+          }
+          .hero-banner {
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            height: 500px;
+            color: white;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+            display: flex;
+            align-items: center;
+            justify-content:flex-start;
+            margin-left: 100px;
+          }
+          .hero-banner h1 {
+            font-size: 3rem;
+            font-weight: bold;
+          }
+          .featured-section{
+            padding: 50px 0;
+            margin-top: 50px;
+          }
+          .featured-section h2{
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+          }
+          .featured-title {
+            margin-bottom: 30px;
+          }
+          .category-card{
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+          }
+          .cat-card img{
+            height:90px;
+          }
+          .category-card img {
+            height: 250px;
+            object-fit: cover;
+            border-radius: 10px;
+          }
+          .last{
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            margin-left: 100px;
+            color: white;
+            height: 500px;
+          }
+          .category-card:hover {
+            transform: scale(1.05);
+            transition: transform 0.3s ease;
+          }
+
+
+          .galler-body {
+            background-color:whitesmoke;
+          }
+          .fom {
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+          }
+          .art-card img {
+            height: 200px;
+            object-fit: cover;
+            transition: transform 0.3s ease-in-out;
+          }
+          .art-card img{
+            height: 300px;
+          }
+          .art-card img:hover {
+            transform: scale(1.05);
+          }
+          .art-card {
+            border: none;
+            border-radius: 10px;
+            height: 30em;
+            overflow: hidden;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            transition: box-shadow 0.3s ease-in-out;
+          }
+          .art-card:hover {
+            box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
+          }
+
+
+          .art6-body {
+            background-color:whitesmoke;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+          }
+
+
+
+          .art5-body {
+            background-color:whitesmoke;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+          }
+       
+
+
+          .art4-body {
+            background-color:whitesmoke;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+          }
+
+
+          .art3-body {
+            background-color:whitesmoke;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+          }
+
+
+
+          .art2-body {
+            background-color:whitesmoke;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+          }
+
+
+          .art1-body {
+            background-color:whitesmoke;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+          }
+          .art-image img {
+            max-width: 100%;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+          }
+          .description p {
+            line-height: 1.6;
+          }
+          .extra{
+            margin-top: 35px;
+          }
+          .mon{
+              font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+              margin-bottom: 30px;
+          
+          }
+          .similar-art img {
+            border-radius: 10px;
+            transition: transform 0.3s ease-in-out;
+          }
+          .similar-art img:hover {
+            transform: scale(1.05);
+          }
+          .foot{
+              margin-bottom: 0%;
+              width:100%;
+          }
