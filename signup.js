@@ -74,6 +74,7 @@ function isEqual(){
     return false;
   }
   else{
+    err4.innerText = "";
     return true;
   }
 }
